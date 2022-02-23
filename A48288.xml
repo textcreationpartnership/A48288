@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The man-child brought forth in us, or, God manifest in flesh by John Lewin ...</title>
+            <author>Lewin, John, Member of the army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48288</idno>
+            <idno type="STC">Wing L1835</idno>
+            <idno type="STC">ESTC R11954</idno>
+            <idno type="EEBO-CITATION">12426048</idno>
+            <idno type="OCLC">ocm 12426048</idno>
+            <idno type="VID">61855</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61855)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 944:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The man-child brought forth in us, or, God manifest in flesh by John Lewin ...</title>
+                  <author>Lewin, John, Member of the army.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.C. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1648?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Biblical teaching.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61855:1" rendition="simple:additions"/>
+            <pb facs="tcp:61855:1" rendition="simple:additions"/>
+            <p>THE MAN-CHILD BROUGHT FORTH IN US: OR GOD MANIFEST IN FLESH.</p>
+            <p>By <hi>JOHN LEWIN</hi> a member of the ARMY</p>
+            <q>
+               <bibl>
+                  <hi>2. Cor. 13.5.</hi>
+               </bibl> Know yee not that Chriſt is in you, ex<g ref="char:EOLhyphen"/>cept yee be Reprobates.</q>
+            <p>LONDON, Printed for G C, at the weſt end of Paules.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61855:2"/>
+            <pb n="1" facs="tcp:61855:2"/>
+            <head>THE MAN-CHJLD BROUGHT FORTH IN US: <hi>OR GOD MANIFST IN FLESH.</hi>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>9. of Iſaiah 6, 7.</hi>
+               </bibl>
+               <q>For unto us a child is borne, vnto us a ſon is given; and the government ſhall be upon his ſhoulder: and his Name ſhall be called wonder<g ref="char:EOLhyphen"/>full, Counſeller, the mighty God, the everlaſting Father, the Prince of peace. And of the increaſe of his government and peace there ſhall be no end, &amp;c.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS propheſie or promiſe is of a child, a ſonne that ſhall be borne and given; which man-child, is God manifeſt in fleſh, in the fleſh of the Saints, as the Sonne; and then ſhall all theſe names be ma<g ref="char:EOLhyphen"/>nifeſt
+<pb n="2" facs="tcp:61855:3"/>
+to be God in fleſh; <hi>wonderfull Counſel<g ref="char:EOLhyphen"/>ler, the mighty God, the everlaſting Father, the Prince of peace:</hi> And the loftineſſe of man ſhall be brought down, and the Lord alone exalted, in that day; this is for the comfort of Saints, ſuch as waite for God, <hi>the glory of the Sonne to be revealed in them;</hi> and this glo<g ref="char:EOLhyphen"/>ry ſhall be before we be a ware: <hi>Iſa.</hi> 66.7. <hi>Be<g ref="char:EOLhyphen"/>fore ſhee travelled, ſhee brought forth: before her pain came, ſhe was delivered of a man child.</hi> Which is the glory of the Son in the Saints, ſuch as wait for the appearance of God; and then all other glories ſhall be deſtroyed, all other but God; <hi>Iſaiah</hi> 66.1. <hi>Thus ſaith the Lord; The Heaven is my throne, and the earth is my foot-ſtoole: where is the houſe that yee build unto me? and where is the place of my reſt?</hi>
+            </p>
+            <p>There were glorious houſes under the Law; and there were Churches under the Goſpell; and now Saints are much troubled and buſied about a houſe to God, and much at a loſſe in it, in their church-fellowſhips: Here ſaith God, <hi>Heaven is my throne, and the
+<pb n="3" facs="tcp:61855:3"/>
+Earth is my foot-ſtool, where is the houſe that ye will build to me?</hi> That God that fils all crea<g ref="char:EOLhyphen"/>tures, his glory fils the Saints: &amp; ſince you are a houſe, <hi>but to this man will I looke, even to him that is poor &amp; of a contrite ſpirit,</hi> there is the habitation of God.</p>
+            <p>All theſe formes have beene, and my hands hath made all theſe: <hi>But to this man will I looke.</hi> This ſhould take the people of God off from all formes and church-fellowſhips, and building of houſes to God; becauſe the weakeſt Saints, the leaſt Saint, are the habitation of God; a poor contrite ſpirit, broken into peeces, ground to powder, one that ſees no good in him<g ref="char:EOLhyphen"/>ſelfe, one that trembles at every word of God, theſe God dwels in, and they are the habitation of God; therefore who will build God a houſe? <hi>Iſa.</hi> 51.13, 14. <hi>He that puts his truſt in me;</hi> That is, he that waites for God, for the appearance of God, as in the next verſe, <hi>and ſhall ſay, caſt yee up,</hi> that is, prepare a way for the Lord, as men
+<pb n="4" facs="tcp:61855:4"/>
+doe when they prepare a way, they caſt up earth and ſtones, and ſo make a cauce-way for paſſing; and ſo ſaith the Lord, <hi>caſt yee up,</hi> that is prepare for him, waite for him, and take away all ſtumblings, as men doe all blocks when they prepare a way; <hi>that the Lord may dwell amongſt us,</hi> what then? <hi>Hee ſhal poſſeſſe the land, and inherit my holy moun<g ref="char:EOLhyphen"/>taine,</hi> what's that? <hi>Jer.</hi> 31.23. <hi>He ſhall call thee the habitation of Juſtice, and mountaine of holineſſe:</hi> So that Saints are the mountain of God; <hi>and the Tabernacle of God is amongſt the ſonnes of men:</hi> There be many lets and ſtumblings that doe hinder the appearance of God, not in reſpect of outward formes, Church fellowſhips; but in our own ſpirits; wee thinke it wonderfull that God ſhould dwell in fleſh, mortall fleſh, ſinfull fleſh; and other lets there are wich doe much hinder the way of God, or a manifeſtation of God in us: but God ſaith in the 15. <hi>verſe</hi> of that 56. of <hi>Iſa. Thus faith the high and lofty one that inhabiteth eternity, whoſe name is holy, I
+<pb n="5" facs="tcp:61855:4"/>
+dwell in the high and holy place, with him alſo that is of an humble and contrite ſpirit:</hi> that is, that God which dwels on high, in the lof<g ref="char:EOLhyphen"/>ty place, the holy one, the high one, he dwels in the contrite one, though he be high; yea in the weakeſt Saints, though they ſeeme to be quite dead.</p>
+            <p>Now when God is manifeſt in us, then his name ſhall appeare to be wonderfull, when the <hi>Man child is brought forth in us,</hi> his name ſhall be called wonderfull in us, in his appearance, his name ſhall be read won<g ref="char:EOLhyphen"/>derfull in the fore-heads of the Saints, when he appeares: <hi>David</hi> when he comes to ſee <hi>God</hi> filling all places, and all creatures, and all as one to <hi>God,</hi> he magnifies him, and ſaies, <hi>Whether ſhall</hi> he <hi>goe frrm God;</hi> in the 139. <hi>Pſalme</hi> 13, 14. <hi>ver. For thou haſt poſſeſſed my reins, thou haſt covered me in my Mothers womb. I will praiſe thee, for I am fearfully and wonderfully made, marvelous are thy workes and that my ſoule knoweth right well.</hi> That is, that <hi>God</hi> that fils all, and is wonderfull in all
+<pb n="6" facs="tcp:61855:5"/>
+whither ſhall I goe from <hi>God?</hi> I am won<g ref="char:EOLhyphen"/>derfully made: which is the appearance of <hi>God</hi> in him. And in the 12. of the <hi>Revel.</hi> 1. <hi>There appeared a wonder in Heaven, a woman being with child, cryed to be delivered:</hi> This woman here now that is ſpoken of in Hea<g ref="char:EOLhyphen"/>ven, it is the Saints who are in the Spirit, that waite for the appearance of <hi>God</hi> in them; and this is called a wonder: <hi>his name ſhall be called wonderfull;</hi> his name ſhall be called wonderfull to others; God in us ſhall. In the 13. of the <hi>Acts</hi> 41. <hi>Behold you deſpiſers, and wonder, and periſh: I worke a worke in your daies which yee ſhall not beleeve, though a man even declare it to you:</hi> wonder and pe<g ref="char:EOLhyphen"/>riſh, for I worke a wonderous worke: that is, the bringing forth of God in fleſh.</p>
+            <p>Now as I ſaid before, when this ſhall be manifeſt, all other glory ſhall fade, the moſt glorious things of all, all our living in formes, as in the 66. of <hi>Iſaiah</hi> 3. <hi>ver. He that kils an Ox, is as if he ſlew a man, he that ſacri<g ref="char:EOLhyphen"/>ficeth a Lamb, is as if he cut off a Dogges neck.</hi>
+               <pb n="7" facs="tcp:61855:5"/>
+All theſe were things that God command<g ref="char:EOLhyphen"/>ed under the Law, and the antitype of theſe were under the Goſpell; theſe ſignified ſome thing under the Goſpell: now God when he appeares, he will make theſe not only to be vaine, but vile, as the offer<g ref="char:EOLhyphen"/>ing of an Idoll; theſe Ordinances ſhall be revealed ſo to be, when the Lord ſhall ap<g ref="char:EOLhyphen"/>peare: and as our moſt glorious things, our greateſts lights: as in the 60. of <hi>Iſa.</hi> and the 19.21. <hi>Revelation</hi> 22. <hi>ver.</hi> and 22. of <hi>Revel.</hi> and 5. when God appeares, <hi>the Jeruſalem that comes down from above, the holy City, a Ci<g ref="char:EOLhyphen"/>ty not forſaken;</hi> this is the appearance of <hi>God</hi> of <hi>God</hi> in the Saints: in the 21. <hi>Revel.</hi> 1-23. <hi>I ſaw a new Heaven and a new Earth, and I ſaw the holy City, the new Jeruſalem comming downe from God out of Heaven, prepared as a Bride adorned for her husband: and I heard a voice out of Heaven ſaying, behold the Taberna<g ref="char:EOLhyphen"/>cle of God is with men, and he will dwell with them, and they ſhall be his people, and G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d himſelfe ſhall be with them, and be their God:</hi>
+               <pb n="8" facs="tcp:61855:6"/>
+This new <hi>Jeruſalem</hi> is <hi>God</hi> manifeſt in the Saints, the fleſh of the Saints, the habitation of <hi>God,</hi> the tabernacle of <hi>God;</hi> when this is manifeſt, our moſt glorious things ſhall fade; as in the 22. <hi>ver.</hi> of this 21. <hi>Revel. I ſaw no Temple there, for the Lord God Almighty and the Lamb were the Temple of it, and the City had no need of the Sunne nor the Moone, for the glory of God did lighten it:</hi> Yee know the Sunne and the Moone are the ordinary means of light, in the world; ſo our ordinary means of light hath bin the <hi>teachings of men;</hi> when <hi>God</hi> appeares, <hi>wee ſhall be all taught of God: knowledge ſhall cover the Earth, as water covers the Sea; wee ſhall know God as wee are known:</hi> So I ſay, as our moſt glorious things, ſo our confuſions, our darkneſſe, and miſſe-apprehenſions of <hi>God,</hi> that is contrary to <hi>God;</hi> and in this his Name ſhall be called <hi>wonderfull, the mighty God:</hi> his appearance in the Saints, deſtroyes al things beſides him, he is called a <hi>conſuming fire, everlaſting bur<g ref="char:EOLhyphen"/>nings; the rod of his mouth, the breath of his noſtrils,</hi> ſhall deſtroy all things, that now
+<pb n="9" facs="tcp:61855:6"/>
+hinders a manifeſtation of him, the <hi>mighty God:</hi> 63. of <hi>Iſa.</hi> 1. <hi>ver.</hi> when hee cometh to apeare hee comes <hi>travelling in the greatneſſe of his ſtrength, mighty to ſave:</hi> when God ap<g ref="char:EOLhyphen"/>peares in the ſaints, hee will make an utter <hi>Conſumption</hi> of all our Confuſion, and dark<g ref="char:EOLhyphen"/>neſſe, every battell of the warrier is with a confuſed noiſe, but this ſhall be with burn<g ref="char:EOLhyphen"/>ing and fuell of fier: for, <hi>unto us a child is born,</hi> all our backſlidings, and diſorders, and goings back, our reelings as a drunken man to and fro, 24. <hi>Iſai.</hi> 19.20.22.23. is not our condition ſuch? now who is it that doeth not reele and ſtagger, and knowes not which way to looke, knows not with what party to ſide? Is not the Earth remo<g ref="char:EOLhyphen"/>ved as a cotage, and doth not the Lord viſite the hoſt of the high ones, &amp; gathereth them stogether as into a pitte, as priſoners? all this of the Lord.</p>
+            <p>when the Lord comes to appear, all theſe our Confuſions and ſtaggerings, ſhall bee Conſumed: 24. <hi>Iſai.</hi> 23. <hi>ver. when the Lord
+<pb n="10" facs="tcp:61855:7"/>
+of hoſts ſhall reign in movnt zion and in Jeru<g ref="char:EOLhyphen"/>ſalem, and before his ancients Gloriouſly. when hee ſhall reign in mount zion,</hi> that is, be all in all in the ſaints, they are called <hi>The Mountaine of holyneſſe; then will the Lord bring down the noiſe of ſtrangers, as the heate in a dry place, even the heate with the ſhadow of a cloude, and the branch of the terrible ones ſhall bee brought low, and he will deſtroy in this mountain of holyneſſe, the face of the covering, caſt over all people, and the vaile that is ſpread over all na<g ref="char:EOLhyphen"/>tions:</hi> whatſoever it be; after the marke in the right hand, or in the forehead, our forms, or uniformities, or our moſt glorious ap<g ref="char:EOLhyphen"/>pearances, ſhall fade: <hi>and they ſhall deſtroy no more in my holy mountain ſaith the Lord.</hi>
+            </p>
+            <p>Now when God will doe this his worke in the earth, hee will make a ſhort worke of it; as in the 66. of <hi>Iſai.</hi> 5. <hi>ver. Hear the word of the Lord, you that tremble at his word; your brethren that hated you, that caſt you out, for my names ſake, ſaid; let the Lord bee glorious; but hee ſhall appeare to your joy, but they ſhall be
+<pb n="11" facs="tcp:61855:7"/>
+aſhamed<g ref="char:punc">▪</g>
+               </hi> that is, that thoſe that waite for the appearane of God in them, that waite for the glory that ſhall be revealed in them, they ſhall be hated of their brethren, they ſhall be hated for <hi>my names ſake;</hi> thoſe Saints that beare up the name of God, and exalt the name of God, and would have the name of God read in them; they are hated of their brethren.</p>
+            <p>I beleive the people of God who live in the laſt times, they ſhall be brought into leſſe compaſs then ever they were: it is ſaid; <hi>your brethren ſhall hate you:</hi> under the law there was the great Iewiſh Church, there a whole Nation were in fellowſhip: after<g ref="char:EOLhyphen"/>wards under the <hi>Goſpel</hi> there were none but ſaints by calling: afterwards, when the ſpi<g ref="char:EOLhyphen"/>rit of Antichriſt came in the night of dark<g ref="char:EOLhyphen"/>nes, and the Apoſtles power was gone, and the power of the beaſt came in with al man<g ref="char:EOLhyphen"/>ner of ſignes &amp; lying wonders, then all the whole world, and Kingdoms were Chriſti<g ref="char:EOLhyphen"/>ans, there was the Church of Rome, and
+<pb n="12" facs="tcp:61855:8"/>
+the Church of <hi>Spaine,</hi> and the Church of <hi>France,</hi> and the Church of <hi>Scotland,</hi> and <hi>England,</hi> then all were the Church of Chriſt; then, as Reformation came in, the Church grew leſſe and leſſe; then all the world were Popiſh; afterwards wee came to be Prote<g ref="char:EOLhyphen"/>ſtants, and after that propheſſers, then puri<g ref="char:EOLhyphen"/>tanes, and Separatiſts, and then to indepen<g ref="char:EOLhyphen"/>dants and antinomians; ſo that ſtill the peo<g ref="char:EOLhyphen"/>ple of God come to bee leſſe and leſſe ſtill in number; ſo I beleive the people of God that walke in the ſpirit, in the laſt times ſhall be fewer then before.</p>
+            <p>Thoſe that waite for God; for the ap<g ref="char:EOLhyphen"/>pearance of God, that wait for the glory of the Sonne to bee revealed in them: theſe are the feweſt that ever were; take all that are one in fellowſhips and judgements, and they are more then thoſe that waite for the glory of God; and therfore thoſe that waite for his appearing are hated of their bre<g ref="char:EOLhyphen"/>thren:</p>
+            <p>Therfore this is for the comfort of the
+<pb n="13" facs="tcp:61855:8"/>
+Saints: <hi>before ſhee travelled, ſhee brought forth, before her paine came, ſhee was delivered<g ref="char:punc">▪</g>
+               </hi> the ſenſe I underſtand thus; that thoſe that wait for God, the glory of God to be revealed in them, the Lord will appeare before they bee aware, not only in them, but afterwards in many more: <hi>before ſhee travelled ſhee brought forth;</hi> that is; unexpectedly and ſuddenly God will appeare before wee be aware, not only in them, but in many more:</p>
+            <p>This deliverance; <hi>before ſhee travelled;</hi> is the deliverance of a man-child; it is a bring<g ref="char:EOLhyphen"/>ing forth of <hi>Chriſt in us:</hi> this is in few words the meaning of it; that <hi>Chriſt</hi> is in us; <hi>Chriſt</hi> in our fleſh, God in our fleſh, in every Saint, in the leaſt Saint, there God dwels; although not diſcovered, not manifeſted, yet is the child in the woomb; it is there, and hath a being, thought not brought forth; even ſo <hi>God</hi> dwels in us though not manifeſted; and when <hi>God</hi> is manifeſted in our fleſh, then the <hi>Man child</hi> is brought forth; and this the Lord will doe. It's true, there be ſome that
+<pb n="14" facs="tcp:61855:9"/>
+travell to bring forth Chriſt; and ſome that bee in paine to doe it, but it ſhall not bee ſo with all: for ſome ſhall have Chriſt brought forth in their fleſh before they bee aware: ſee a ſcripture or two; 16, of <hi>John,</hi> 20. ver. <hi>Verily, verily I ſay unto you, that yee ſhall weep and Lament, but the world ſhall rejoyce: and ye ſhall be ſorrowfull, but your ſorrow ſhall be turn<g ref="char:EOLhyphen"/>ed into joy. A woman, when she is in travell, hath ſorrow, becauſe her hour is come: but aſſoon as she is delivered of the child, she remembreth no more the auguish, for joy that a man is born into the world. and yee now therefore have ſor<g ref="char:EOLhyphen"/>row: but I will ſee you again, and your harts shall rejoyce, and your joy no man taketh from you:</hi> the meaning is this; you ſhall ſee Chriſt in the ſpirit; as hee ſaith unto them, in the 16: <hi>ver: A little while and yee shall not see me: and again a littile while, and yee shall ſee mee: becauſe I go to the Father:</hi> they ſhould in a lit<g ref="char:EOLhyphen"/>tle while, ſe him; and they ſhould not: what is that? they did not know: but Chriſt ſhew<g ref="char:EOLhyphen"/>eth them, what it was: when Chriſt was in
+<pb n="15" facs="tcp:61855:9"/>
+the fleſh they did ſee him; but when hee was taken out of the fleſh, they did not ſee him; but when Chriſt ſhall come in the <hi>ſpirit,</hi> they ſhal ſee him again: a little while, &amp; this fleſh<g ref="char:EOLhyphen"/>ly appearance ſhall vaniſh; but afterwards you ſhall ſee me again:</p>
+            <p>When Chriſt was in the fleſh, they looked upon him as one diſtinct from them, they did not ſee him in their fleſh: they ſhall ſee God in their fleſh, as he was in his fleſh; ſaith Chriſt he that ſeeth me, ſeeth him: thoſe that ſee Chriſt in truth, do not ſee that fleſh only, but God in that fleſh: <hi>hee that ſeeth mee, ſeeth the Father:</hi> ſo when wee ſee Chriſt truly, we ſee not only that fleſh; but God in that fleſh: now ſaith Chriſt, <hi>when I goe a way, the ſpirit shall come:</hi> that is in your fleſh: <hi>and you shall ſee me again:</hi> as in the 16. of <hi>John</hi> 18, <hi>&amp;</hi> 20. <hi>ver. I Will not leave you comfortleſſe, I will come to you. Yet a little while, and the world ſeeth me no more, but yee ſee me: becauſe I live ye shall live alſo, at that day ye shall know that I am in my Father, and you in me, and I in you.</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:61855:10"/>When Chriſt ſhall come again, wee ſhall know him in the appearance of the Father: the fleſh is nothing, but the manifeſtation of the Father; you ſhall know, that you are in Chriſt, and Chriſt in you: <hi>you in mee as I am in the Father:</hi> as God was in his fleſh, ſo God ſhall appeare in your fleſh: that God that was manifeſt in his fleſh; ſhall be mani<g ref="char:EOLhyphen"/>feſt in ours; and that is Chriſt.</p>
+            <p>Before God was manifeſt in the Diſciples fleſh; Chriſt tould them, they ſhould <hi>weepe and lament: but the world shall rejoyce<g ref="char:punc">▪</g>
+               </hi> the people of God in theſe times; before God was manifeſted in them, they did ſorrow: before there was the appearance of God in them, we may ſee how ſorrowful they were; they thought that Chriſt had been gon, and that they had loſt their maſter: but ſaith he, <hi>I will ſee you again:</hi> ſo you ſhall rejoyce; <hi>I will ſee you:</hi> that is to ſay, that God that was manifeſt in that fleſh, ſhall appeare in yours alſo: again in the 12. of <hi>Reve.</hi> &amp; the 1. <hi>ver. And there appeared a great wonder in Heaven,
+<pb n="17" facs="tcp:61855:10"/>
+a Woman clothed with the Sun, and the moone under her feete, and upon her head a crown of twelve ſtars; and shee beeing with child, cried, travelling in birth, and pained to be delivered.</hi> This woman that is here ſpoken of, in Hea<g ref="char:EOLhyphen"/>ven; it is the Saints that are in the <hi>ſpirit;</hi> even the weakeſt Saints; for God will appeare in the weakeſt Saints:</p>
+            <p>A woman was traveling, and at length, <hi>deli<g ref="char:EOLhyphen"/>vered of a man-child:</hi> and in the 5. <hi>ver.</hi> of the ſame <hi>Chap. The child was caught up to God,</hi>
+            </p>
+            <p>The bringing forth of Chriſt, is a bring<g ref="char:EOLhyphen"/>ing forth of God, that is, when God is revel<g ref="char:EOLhyphen"/>ed in us, and appeares in us, and manifeſt in us; there is the man-child:</p>
+            <p>This is for comfort and for joy, for thoſe that waite for the appearance of God in them: Know this that God will appeare be<g ref="char:EOLhyphen"/>fore wee bee aware: this ſhould incourage the people of God, and keepe their harts in remembrance of this truth, that wee are the tabernacles of God, the place where God dwels; as in this book of the <hi>Rev. John</hi> ſaw
+<pb n="18" facs="tcp:61855:11"/>
+               <hi>a new Jeruſalem, a City coming downe from a<g ref="char:EOLhyphen"/>bove;</hi> which is, nothing but God dwelling in us, the City of God, where hee dwelleth:</p>
+            <p>When God comes to appeare and dwell in us; then ſhall that ſong bee ſung, as it is in the 12. <hi>Reve.</hi> and the 10. <hi>ver. And I heard a loud voice, ſaying in heaven, Now is come ſal<g ref="char:EOLhyphen"/>vation, and ſtrength, and the kingdom of our God, and the power of his Chriſt; for the accu<g ref="char:EOLhyphen"/>ſer of our brethren is caſt down, which accuſed them before our God day and night.</hi>
+            </p>
+            <p>Now I ſay this ſhould ſpeak comfort to thoſe that wait for the appearance of God, to thoſe that love his appearance, and thoſe that mourne for him: there bee ſome that mourne for his appearance, and ſome that love his appearance: here is comfort for both; for before <hi>ſhe traveled ſhe brought forth and before her paine came she was delivered:</hi> it is much incouragement; that God, who, is the <hi>high and holy one,</hi> will appeare before wee bee aware; <hi>before her paine came, ſhe was delivred<g ref="char:punc">▪</g>
+               </hi> who hath heard ſuch a thing? that
+<pb n="19" facs="tcp:61855:11"/>
+Kingdom ſhould be born at once, ſuddenly and unexſpectedly, God will appeare, not only in us, but in many others.</p>
+            <p>I know nothing but my owne ſpirit; and ſpeake nothing but my owne experience: I will not lay any exhortation, upon any mans ſpirit: I have been a while, and not long, waiting for the appearance of God; that God might be manifeſted in my fleſh, and doe cry in paine to be belivered: Now in this time, my thoughts are carried out af<g ref="char:EOLhyphen"/>ter too many things, and not upon this on<g ref="char:EOLhyphen"/>ly, to wait for God; and this hath bin my weakneſſe: I have been and am ſo troubled at what one man, another, and the world will ſay, and how to anſwer all theſe, and the like: I ſay, this is our weakneſſe.</p>
+            <p>If we could but waite upon God untill he be manifeſt; and then all men ſhall fall for, <hi>the loftyneſſe of man ſhall be brought downe and the Lord all one, ſhall bee exalted, in that day:</hi> ſee what the prophet ſaith, in the 31. of <hi>Jerem.</hi> 21. <hi>ver. ſet thee up
+<pb n="20" facs="tcp:61855:12"/>
+way-marks, make thee high heaps, ſet thy heart towards the high-way, even the way which thou wenteſt:</hi> the meaning is, take away all hin<g ref="char:EOLhyphen"/>derances: Take away; that is, prepare for God: Then, <hi>turne again O! Virgin, daughter of Iſraell; turn again to theſe thy Cities: how long wilt thou goe about? oh, thou back-ſliding daughter:</hi> theſe are our back-ſlidings of fleſh, when God is not preſently revealed in us; wee gadde from one thing to another; and our thoughts rove up and downe, and are carefull to anſwer this man and the other; now wee ſhould doe nothing, but turn to God: <hi>How long wilt thou goe about, oh, thou back-ſliding daughter.</hi>
+            </p>
+            <p>
+               <hi>Behould</hi> the Lord hath <hi>created a new thing in the earth; a woman shall compas a man;</hi> a <hi>woman shall;</hi> that is, the weakeſt Saint: the Lord hath done it, it is in being already; it is no new thing, but only there wants a ma<g ref="char:EOLhyphen"/>nifeſtation of it; the thing is done already; God is come, and hath dwelt in fleſh, and taken it into union already with himſelfe:</p>
+            <p>
+               <pb n="21" facs="tcp:61855:12"/>A woman ſhall; that is, the weakeſt Saint, ſhall compaſſe Chriſt, <hi>the man-child:</hi> they ſhall doe it, this is not an uncertain word; but this word, <hi>Shall,</hi> houlds forth the certain<g ref="char:EOLhyphen"/>ty of it all:</p>
+            <p>Though <hi>a woman,</hi> the weaker veſſell, that is the weakeſt Saint; yet there God, and and his greate power will appeare: this ſhould keep our hearts from gadding, wan<g ref="char:EOLhyphen"/>dering, &amp; going about; for God will ap<g ref="char:EOLhyphen"/>peare, hee will manifeſt himſelf: this is for our comfort; that when God ſhall thus ap<g ref="char:EOLhyphen"/>peare, then ſhall that ſpeech be uſed; <hi>When I ſhall turn back their Captivity: The Lord bleſs thee, oh, habitation of justice, and moun<g ref="char:EOLhyphen"/>tain of holyneſſe:</hi> the Lord bleſſe thee, that is the Saints, who are the habitation of God, and mountain of holineſſe:</p>
+            <p>Although this proverb be not uſed as yet, it ſhall bee uſed; when he <hi>ſhall bring againe their Captivity;</hi> that is, when the Lord ſhall appeare and bee manifeſt in us: when the Lord ſhall ariſe to the prey, then they ſhall
+<pb n="22" facs="tcp:61855:13"/>
+confeſſe this; <hi>the Lord bleſs thee, oh, thou habi<g ref="char:EOLhyphen"/>tation of justi,</hi> and <hi>mountain of holyneſs?</hi> in whom the holy God dweleth: <hi>Vpon this I a<g ref="char:EOLhyphen"/>waked, and beheld, and my ſleepe was ſweet un<g ref="char:EOLhyphen"/>to me:</hi> it ſeemes the prophet was in a ſleepe, yet hee awaked, and it was very ſweet unto him that God would appeare at laſt:</p>
+            <p>This is for comfort to thoſe that waite upon God; for his appearance will be <hi>before wee bee aware:</hi> and I ſay, that as ſurely as God will appeare in us, and manifeſt him<g ref="char:EOLhyphen"/>ſelf in us, ſo he will in many more:</p>
+            <p>Who hath hard ſuch a thing as this? That <hi>A Nation ſhould bee borne at once:</hi> we ſhall ſee many companions, that is a comfort to us; all though I confeſſe, were there no man in this world that did waite for God, yet I ſhould be quiet, ſilent and reſt in the lotte: I know <hi>the viſion will ſpeake, and will not tarry, it is but for an apointed time;</hi> and then God will appeare; till then wee ſhould bee quiet and waite for him, as Chriſt was; hee tels his <hi>diſcipees,</hi> you ſhal al leave, me but the
+<pb n="23" facs="tcp:61855:13"/>
+Father is with mee; though you doe leave me, yet I have the Father with me, I am not alone: if all the world doe forſake us, yet if God live in us, we ſhall be ſatisfied; but ne<g ref="char:EOLhyphen"/>vertheleſſe, if wee waite upon <hi>God</hi> in deed, we ſhall ſee more that have the appearance of God in them:</p>
+            <p>
+               <hi>A Nation in one day;</hi> 60. <hi>Iſa.</hi> 2, 3. <hi>ver. the the Lord ſhall ariſe on thee, and his Glory ſhall bee ſeen upon thee;</hi> and then, <hi>the Gentiles ſhall come to thy light, and kings to the brightneſſe of thy riſeing: lift up thy eyes round about;</hi> that is when God ſhall appeare in Saints, then many more ſhall come in, and God will appeare in them:</p>
+            <p>When the name of God ſhall be read up<g ref="char:EOLhyphen"/>on the Saints, that is the new name; <hi>and thou ſhalt be caled by a new name, which the mouth of the Lord ſhall name; and then the Gentiles ſhall ſee thy Righteouſnſs, and all Kings thy glo<g ref="char:EOLhyphen"/>ry:</hi> that is, they ſhal clearly ſee <hi>God</hi> in them: <hi>Iſa.</hi> 61. <hi>Chap.</hi> 19. <hi>ver.</hi> where the prophet ſaith, <hi>the Lord ſhall bee unto thee an everlast<g ref="char:EOLhyphen"/>ing
+<pb n="24" facs="tcp:61855:14"/>
+light, and thy God thy Glory: Zacha.</hi> 3.7. <hi>ver.</hi> Thus ſaith the Lord of hoſts; if thou wilt walk in my waies, and keep my charge, then thou ſhalt judge my houſe, and I will give thee places to walke in among thoſe that ſtand by; what is that? It is to live in, and walk with God; only to waite for, and upon God; and only to be with God: What is his Courts? The place where God walkes and dwels: If we continually waite for the ap<g ref="char:EOLhyphen"/>peareance of God, and live in him; hee will give us places, or walks among thoſe that judge his <hi>houſe,</hi> among thoſe that know him and live in him; he wil give us places among the high'ſt, we ſhal be as high with God as a<g ref="char:EOLhyphen"/>ny are; there be ſome with <hi>God,</hi> that live on<g ref="char:EOLhyphen"/>ly in God, if we wait upon him, we ſhal be a<g ref="char:EOLhyphen"/>mong thoſe, even the highſt: <hi>hear now o Joſhu<g ref="char:EOLhyphen"/>ah the high Preiſt, thou and thy fellowes that ſit before thee; for they are men wonder'd at, for be<g ref="char:EOLhyphen"/>hould, I will bring forth my ſervant, the branch.</hi>
+            </p>
+            <p>Heare <hi>Oh! Joshuah</hi> thou and thy fellowes, that is, Chriſt and thoſe who are Chriſts, are
+<pb n="25" facs="tcp:61855:14"/>
+men wondered at; as the word will beare it, monſtrous men: thoſe that live up to the glory of Chriſt, are men wondered at; but I <hi>will bring forth the branch, the man-child: Chriſt;</hi> that is the branch: behould God will appear in you, and not only in you, but in many othors alſo: a glorious appearance of God, is a bringing forth of the branch, a bringing forth of Chriſt in us. <hi>Iſa.</hi> 60. <hi>Chap.</hi> 14. <hi>ver. the ſons of thoſe that afflicted thee, and all they that deſpised thee shall bow themſelves downe at the ſoles of thy feet, and they shall call thee, the City of the Lord, the Zion of the holy one of Iſrael:</hi> although Saints may be an affli<g ref="char:EOLhyphen"/>cted people, a flock troden down, &amp; few; yet God ſhall he ſo manifeſt in them, that they ſhal be called the City of the Lord, the Zion of the holy one of Iſrael; though few, yet a City, and a moſt Glorious City: <hi>I will make glorious the place of my feet;</hi> the place of Gods reſidents, the glory of Lebannon ſhall bee given unto it, and I will make thee an etern<g ref="char:EOLhyphen"/>all Exellency, in ſtead of our ordinary light,
+<pb n="26" facs="tcp:61855:15"/>
+teachigs of men; the Lord will be unto us an everlaſting light and <hi>thy God thy glory:</hi> this glory we waite for, to ſee God dweling in us, that men may ſee us the Tabernacles of God; for God to be our light and our glory, for God to dwell in the light of every one of us, and that all Nations may ſee his ſaving health, <hi>or</hi> his ſalvation; that we may ſee <hi>that</hi> light, reaſon, underſtanding and diſcretion, to bee nothing but God; we are apt to think wee had all theſe in us of our owne: Reaſon underſtanding, and wiſdom, are all of the <hi>Lord;</hi> if we could but ſee it, it is the very ap<g ref="char:EOLhyphen"/>pearance of God: <hi>Acts.</hi> 17.23. <hi>That God</hi> (ſaith Paul) <hi>whom ye ignorantly worship, him declar I unto you:</hi> now all the world, in what formes ſoeuer, think they worſhid God; ſome on way, and ſome another: <hi>this God</hi> (ſaith Paul) I declare, <hi>he made the worlds, and he dweleth in no Temple made with hands, nor is worshiped with mens hands, ſeeing hee gives to all breath and life; he is not far from never one of you; if poſſible yee might feele, and find him;
+<pb n="27" facs="tcp:61855:15"/>
+for in him wee live, and move, and have our be<g ref="char:EOLhyphen"/>ing.</hi> I know many are very zealous to wor<g ref="char:EOLhyphen"/>ſhip God, in their way: this God is in us; and they ſhall ſee, when God appeares, that he is not far from every one of us.</p>
+            <p>And again, as it is comfort to ſee God in us; ſo it is, to ſee God working all things; all things that come to paſſe in the world are of him; our deviſions, earth-quakes, noiſes &amp; thunderings; and our labouring in the fier, that which is moſt weariſom, e is alſo of the Lord; <hi>Hab.</hi> 2. <hi>Chap.</hi> 13. <hi>ver. Behould, is it not of the Lord of hoſte, that men labour in the fier, and the people ſhall weary themſelves for very vanity:</hi> All our crafts, trads, and poliſie, theſe are of the Lord; <hi>is it not of the Lord that men labour in the fier,</hi> in heate and trouble:</p>
+            <p>O! how ſweet would this be how calmly ſhould we live; ſeing no thing but God in all theſe actings, controverſies &amp; troubles; it is the Lord: and I thinke the is making an end of the kingdome of he man of ſin; and gloriouſly to appeare himſelf in the Saints,
+<pb n="28" facs="tcp:61855:16"/>
+and to write his name, holyneſs in the earth; in that day there ſhall be upon all actions, &amp; tranſactions, <hi>holyneſs to the Lord; and upon the bels of the horſſes, and upon every pot in Je<g ref="char:EOLhyphen"/>ruſalem; and in that day there ſhall be no more the cananite in the houſe of the Lord;</hi> not any thing that is vile or prophane: now to ſee <hi>God</hi> in all this is much comfort: <hi>David</hi> when he ſee Gods appearing to him, cries out <hi>whom ſhall I feare? the Lord is my light, and my ſalvation, he is the ſtrength of my life; of whom ſhall I be afraid?</hi> he doth not ſay, I had life, &amp; light, and ſalvation, given me; but <hi>God is my light, and ſtrength of my life: ſo when God ap<g ref="char:EOLhyphen"/>peares, our life ſhall be</hi> more vigerous and full<g ref="char:EOLhyphen"/>er of God: our ſhadowes, living in our ſelves, and fancies ſhall vaniſh; and we ſhall only ſee our life in God, yea, a well-being in him: this life and glory will appeare, if wee wait for God: before we be aware the noiſe of God will be heard; ariſe my love, my faier one and come away. 85. <hi>pſal.</hi> 8, 9. <hi>ver. I will harken what God the Lord will ſpeake, for
+<pb n="29" facs="tcp:61855:16"/>
+he will ſpeak peace to his people; ſurly his ſalva<g ref="char:EOLhyphen"/>tion is nigh them that feare him, that glory may dwel in our Land.</hi> 35. <hi>Iſa.</hi> 01. <hi>ver. and the Re<g ref="char:EOLhyphen"/>deemed of the Lord ſhall return, &amp; come to Zion with ſongs, and everlaſting joy upon their heads, they ſhall obtain joy &amp; gladnſſe, and ſor<g ref="char:EOLhyphen"/>row and ſighing ſhall fly away.</hi> and God will bee ſeene to come leaping upon the moun<g ref="char:EOLhyphen"/>tains, and ſkipping upon the hils: and wee ſhall ſee the winter is paſt away, and our darkeſt night to be a clear day; and our glory ſhall be God in us, as floures adorne the earth: the time of rejoycing ſhall bee as the ſinging of birds in the ſpring, &amp; the noiſe of the turtle ſhall be heard in our Land; <hi>even</hi> groanings of love: oh! bleſſed are they that waite for God, and the pure in hart, <hi>for they shall ſee God:</hi> they that waite upon <hi>God shall</hi> underſtand; thoſe that wait <hi>ſince the daily ſa<g ref="char:EOLhyphen"/>crifice hath been taken away, till the end of the time that this abomination which makes deſo<g ref="char:EOLhyphen"/>late is ſet up, bleſſed is he that waits til the end, for hee shall reſt, and ſtand in the lot at the end
+<pb n="30" facs="tcp:61855:17" rendition="simple:additions"/>
+of the dayes:</hi> and when God is manifeſt, it ſhall be ſaid in that day, <hi>Loe this is our God, wee have waited for him, hee shall ſave us; this is the Lord, wee have waited for him, wee will be glad and erjoice in his ſalvation.</hi>
+            </p>
+            <epigraph>
+               <bibl>
+                  <hi>Zeph.</hi> 3. <hi>Chap.</hi> 14. <hi>ver.</hi>
+               </bibl>
+               <q>
+                  <hi>Sing oh! daughter of Zion, shout oh Iſrael! bee glad and rejoice, with all thy hart; oh daughter of Jeruſalem, for the LORD, thy GOD, is in the mideſt of thee.</hi>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61855:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
